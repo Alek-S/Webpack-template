@@ -1,2 +1,2 @@
 # Webpack-template
-Standard Personal Webpack configs for use as starting point
+Standard personal Webpack configs for use as starting point.
